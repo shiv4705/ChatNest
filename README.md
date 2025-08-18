@@ -12,13 +12,10 @@ _DURATION_: 6 WEEKS
 
 _MENTOR_: NEELA SANTOSH
 
-ChatNest is a real-time chat application featuring individual and group chats. Built with React, Chakra UI, Node.js, Express, MongoDB, and Socket.io, this project demonstrates real-time communication and group management with a beautiful and responsive interface.
+ChatNest is a chat application featuring individual and group chats. Built with React, Chakra UI, Node.js, Express and MongoDB, this project demonstrates real-time communication and group management with a beautiful and responsive interface.
 
 ## Features
 
-- **Real-Time Messaging:**
-  - Instant communication using Socket.io.
-  - Join individual or group chat rooms.
 - **User Authentication:**
   - Secure sign up and login.
   - Password encryption using bcrypt.
@@ -32,8 +29,8 @@ ChatNest is a real-time chat application featuring individual and group chats. B
 
 ## Technologies Used
 
-- **Frontend:** React, Chakra UI, Axios, Socket.io-client
-- **Backend:** Node.js, Express, MongoDB, Mongoose, Socket.io
+- **Frontend:** React, Chakra UI, Axios
+- **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Authentication:** JSON Web Tokens (JWT), bcrypt
 
 ## Installation
@@ -89,7 +86,7 @@ ChatNest is a real-time chat application featuring individual and group chats. B
 2. Use the search functionality to find other users and start chatting.
 3. Create group chats using the “New Group Chat” button.
 4. In a group chat, click on the eye icon to view group info or the update button to edit group details.
-5. Enjoy seamless, real-time messaging!
+5. Enjoy seamless messaging!
 
 ## API Endpoints Overview
 
