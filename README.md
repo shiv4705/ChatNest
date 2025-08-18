@@ -128,7 +128,6 @@ _Chats of the group_
 ## Acknowledgements
 
 - [Chakra UI](https://chakra-ui.com/)
-- [Socket.io](https://socket.io/)
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
