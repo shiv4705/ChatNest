@@ -1,17 +1,5 @@
 # ChatNest
 
-_COMPANY_: CODTECH IT SOLUTIONS
-
-_NAME_: SHIV PATEL
-
-_INTERN ID_: CT06DL588
-
-_DOMAIN_: MERN STACK WEB DEVELOPMENT
-
-_DURATION_: 6 WEEKS
-
-_MENTOR_: NEELA SANTOSH
-
 ChatNest is a chat application featuring individual and group chats. Built with React, Chakra UI, Node.js, Express and MongoDB, this project demonstrates real-time communication and group management with a beautiful and responsive interface.
 
 ## Features
